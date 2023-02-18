@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T21:08:26.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="G2aQc7gHT27H4T1Yczsf" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-18T21:21:44.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="fyK0OgonUxdl3ZFsYyGl" version="20.8.20" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="3475" dy="1352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1344,6 +1344,9 @@
         </mxCell>
         <mxCell id="g7Gg8zKcBWPMbAuflEkK-237" value="СБО Управление данными клиента" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2045" y="2968" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g7Gg8zKcBWPMbAuflEkK-239" value="На момент 2020.&#xa;Легаси1.&#xa;Функции:&#xa;1.Шаблоны сообщений.&#xa;2.Отправка сообщения в агрегаторы/другие системы&#xa;3.График доставки&#xa;4.Отправка сообщений с помощью файлов рассылки&#xa;Параметры:&#xa;12 лет системе. Коробка вендора. Стек не соответсвует. Не развивается.  &#xa;&#xa;&#xa;Легаси2&#xa;Функции:&#xa;1.Управление услугой нотификации в части транзакционных сообщений:&#xa;Настройка времени доставки.&#xa;Настройка списка событий.&#xa;Оплата нотификации.&#xa;2.Шаблоны сообщений и фильтрация в зависимости от подписок, оплаты, графика доставки.&#xa;3.Установка канала доставки в уведомления&#xa;Параметры:&#xa;9 лет. Инхаус разработка. Стек не соответсвует. За время разработки архитектура монолита была превращена в паутину, разделение БД на сервисы невозможно.&#xa;&#xa;&#xa;&#xa;&#xa;Легаси3&#xa;Функции:&#xa;1.Шаблоны сообщений&#xa;2.График доставки.&#xa;3.Отправка сообщения в агрегаторы:&#xa;Маршрутизируется по каналам&#xa;Резервирование канала&#xa;Обогащение пуша (кнопки, иконки, мерчанты)&#xa;4.Управление пуш адресами.&#xa;5.Ussd&#xa;6.Отправка сообщений с помощью файлов рассылки&#xa;Параметры:&#xa;8 лет. Коробка вендора. Стек не соответсвует. Большая зависимость от вендора." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1960" width="560" height="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
