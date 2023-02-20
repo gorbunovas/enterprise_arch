@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T20:40:25.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="A8Mj2WzoGh9UCXLv_GxJ" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T20:53:14.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="wqfB-DNanLZ5bVroL1bd" version="20.8.20" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
     <mxGraphModel dx="1449" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1012,9 +1012,6 @@
         <mxCell id="g7Gg8zKcBWPMbAuflEkK-156" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.404;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" source="g7Gg8zKcBWPMbAuflEkK-148" target="g7Gg8zKcBWPMbAuflEkK-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g7Gg8zKcBWPMbAuflEkK-236" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.623;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="g7Gg8zKcBWPMbAuflEkK-148" target="g7Gg8zKcBWPMbAuflEkK-235" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="g7Gg8zKcBWPMbAuflEkK-148" value="ОС Нотификация" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1900" y="2803" width="123" height="61" as="geometry" />
         </mxCell>
@@ -1166,9 +1163,6 @@
         </mxCell>
         <mxCell id="g7Gg8zKcBWPMbAuflEkK-230" value="Транзакционный сервис" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="2050" y="3370" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="g7Gg8zKcBWPMbAuflEkK-235" value="Облачные провайдеры.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Операторы сотовой связи.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Месенджеры" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet" parent="1" vertex="1">
-          <mxGeometry x="2288.55" y="2875" width="112.9" height="70" as="geometry" />
         </mxCell>
         <mxCell id="g7Gg8zKcBWPMbAuflEkK-238" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="g7Gg8zKcBWPMbAuflEkK-237" target="g7Gg8zKcBWPMbAuflEkK-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
