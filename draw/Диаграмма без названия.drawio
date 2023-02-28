@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T14:16:46.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="OrbetDQM8oLFUV2WkSIv" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T14:27:00.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="jtNaEmBrvv0BKAXPuge0" version="20.8.23" type="github">
   <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
-    <mxGraphModel dx="1232" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2954" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3082,24 +3082,6 @@
         <mxCell id="ZKJ9oe6fuowpO7qb8joz-593" value="Kafka broker" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2102.5499999999997" y="5925" width="172.4" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="ZKJ9oe6fuowpO7qb8joz-594" value="Backup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="5895" width="68" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZKJ9oe6fuowpO7qb8joz-595" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZKJ9oe6fuowpO7qb8joz-532" target="ZKJ9oe6fuowpO7qb8joz-594">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1990" y="6020" as="sourcePoint" />
-            <mxPoint x="2040" y="5970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZKJ9oe6fuowpO7qb8joz-596" value="Backup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="2312" y="5895" width="68" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZKJ9oe6fuowpO7qb8joz-597" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZKJ9oe6fuowpO7qb8joz-596">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2289.75" y="5910" as="sourcePoint" />
-            <mxPoint x="2413.75" y="5970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZKJ9oe6fuowpO7qb8joz-598" value="Backup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1810.25" y="6218" width="68" height="30" as="geometry" />
         </mxCell>
@@ -3195,6 +3177,24 @@
         </mxCell>
         <mxCell id="ZKJ9oe6fuowpO7qb8joz-630" value="slave&amp;nbsp;01...N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1197.5000000000002" y="6070" width="172.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKJ9oe6fuowpO7qb8joz-631" value="Backup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="2312" y="6035" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKJ9oe6fuowpO7qb8joz-632" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZKJ9oe6fuowpO7qb8joz-631">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2289.75" y="6050" as="sourcePoint" />
+            <mxPoint x="2413.75" y="6110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZKJ9oe6fuowpO7qb8joz-633" value="Backup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1938.63" y="6045" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZKJ9oe6fuowpO7qb8joz-634" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZKJ9oe6fuowpO7qb8joz-633">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1916.38" y="6060" as="sourcePoint" />
+            <mxPoint x="2040.38" y="6120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
